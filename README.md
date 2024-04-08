@@ -38,6 +38,6 @@ Awesome Indie Hackers Tools (AIHT) is a directory listing tools and products use
 - [SalesPopup](https://SalesPopup.io) - Increase your sales easily by showing recent transactions in a customizable popup users will trust.
 
 ## Launch
-- [Product Hung](https://www.producthunt.com/) - Platform that lets users share and discover new products.
+- [Product Hunt](https://www.producthunt.com/) - Platform that lets users share and discover new products.
 
 - [Uneed](https://www.uneed.best/) - Launch platform for your products, Product Hunt alternative.
