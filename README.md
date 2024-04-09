@@ -22,6 +22,7 @@ Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products 
 - [Business and Sales](#business-and-sales)
 - [Boilerplates](#boilerplates)
 - [Launch](#launch)
+- [Directories](#directories)
 - [Hosting and Cloud](#hosting-and-cloud)
 - [Customer Service](#customer-service)
 - [Legal and Compliance](#legal-and-compliance)
@@ -33,6 +34,7 @@ Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products 
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
 
 ## Development
+- [Clobbr](https://clobbr.app/) - The app & CLI tool to load test your API endpoints.
 
 ## Design 
 
@@ -58,6 +60,11 @@ Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products 
 - [Product Hunt](https://www.producthunt.com/) - Platform that lets users share and discover new products.
 
 - [Uneed](https://www.uneed.best/) - Launch platform for your products, Product Hunt alternative.
+
+- [MicroLaunch](https://microlaunch.net/) - Discover world-class products & startups.
+
+## Directories
+- [AI Directories](https://www.aidirectori.es/) - Directory of AI directories (+100).
 
 ## Hosting and Cloud
 
