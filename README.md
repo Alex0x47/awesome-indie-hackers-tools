@@ -44,11 +44,14 @@ Awesome Indie Hackers Tools (AIHT) is a directory listing tools and products use
 
 ## Business and Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
+
 - [SalesPopup](https://SalesPopup.io) - Increase your sales easily by showing recent transactions in a customizable popup users will trust.
 
 ## Finance and Payment
+- [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
 
 ## Boilerplates
+- [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
 
 ## Launch
 - [Product Hunt](https://www.producthunt.com/) - Platform that lets users share and discover new products.
