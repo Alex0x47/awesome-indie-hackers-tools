@@ -25,7 +25,7 @@ Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products 
 - [Hosting and Cloud](#hosting-and-cloud)
 - [Customer Service](#customer-service)
 - [Legal and Compliance](#legal-and-compliance)
-- [Networking and Community Building](#networking-community-building)
+- [Networking and Community Building](#networking-and-community-building)
 
 ## AI
 
@@ -66,3 +66,7 @@ Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products 
 ## Customer Service
 
 ## Networking and Community Building
+
+---
+
+> Created and maintained by [Alexandre Grisey](https://alexandre-grisey.fr/)
