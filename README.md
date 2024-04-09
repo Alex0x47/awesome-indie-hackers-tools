@@ -33,7 +33,7 @@ Awesome Indie Hackers Tools (AIHT) is a directory listing tools and products use
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thans to programmatic SEO.
 
-## Business
+## Business & Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
 - [SalesPopup](https://SalesPopup.io) - Increase your sales easily by showing recent transactions in a customizable popup users will trust.
 
