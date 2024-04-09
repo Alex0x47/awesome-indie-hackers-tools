@@ -12,15 +12,24 @@ Awesome Indie Hackers Tools (AIHT) is a directory listing tools and products use
 ## Table of Contents
 
 - [AI](#ai)
+- [Analytics & Data](#analytics-&-data)
 - [Development](#development)
 - [Design](#design)
 - [Productivity](#productivity)
 - [Marketing](#marketing)
 - [SEO](#seo)
-- [Business](#business)
+- [Finance & Payment](#finance-&-payment)
+- [Business & Sales](#business-&-sales)
+- [Boilerplates](#boilerplates)
 - [Launch](#launch)
+- [Hosting & Cloud](#hosting-&-cloud)
+- [Customer Service](#customer-service)
+- [Legal & Compliance](#legal-&-compliance)
+- [Networking & Community Building](#networking-&-community-building)
 
 ## AI
+
+## Analytics & Data
 
 ## Development
 
@@ -37,7 +46,19 @@ Awesome Indie Hackers Tools (AIHT) is a directory listing tools and products use
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
 - [SalesPopup](https://SalesPopup.io) - Increase your sales easily by showing recent transactions in a customizable popup users will trust.
 
+## Finance & Payment
+
+## Boilerplates
+
 ## Launch
 - [Product Hunt](https://www.producthunt.com/) - Platform that lets users share and discover new products.
 
 - [Uneed](https://www.uneed.best/) - Launch platform for your products, Product Hunt alternative.
+
+## Hosting & Cloud
+
+## Legal & Compliance
+
+## Customer Service
+
+## Networking & Community Building
