@@ -12,24 +12,24 @@ Awesome Indie Hackers Tools (AIHT) is a directory listing tools and products use
 ## Table of Contents
 
 - [AI](#ai)
-- [Analytics & Data](#analytics-&-data)
+- [Analytics and Data](#analytics-and-data)
 - [Development](#development)
 - [Design](#design)
 - [Productivity](#productivity)
 - [Marketing](#marketing)
 - [SEO](#seo)
-- [Finance & Payment](#finance-&-payment)
-- [Business & Sales](#business-&-sales)
+- [Finance and Payment](#finance-and-payment)
+- [Business and Sales](#business-and-sales)
 - [Boilerplates](#boilerplates)
 - [Launch](#launch)
-- [Hosting & Cloud](#hosting-&-cloud)
+- [Hosting and Cloud](#hosting-and-cloud)
 - [Customer Service](#customer-service)
-- [Legal & Compliance](#legal-&-compliance)
-- [Networking & Community Building](#networking-&-community-building)
+- [Legal and Compliance](#legal-and-compliance)
+- [Networking and Community Building](#networking-community-building)
 
 ## AI
 
-## Analytics & Data
+## Analytics and Data
 
 ## Development
 
@@ -42,11 +42,11 @@ Awesome Indie Hackers Tools (AIHT) is a directory listing tools and products use
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thans to programmatic SEO.
 
-## Business & Sales
+## Business and Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
 - [SalesPopup](https://SalesPopup.io) - Increase your sales easily by showing recent transactions in a customizable popup users will trust.
 
-## Finance & Payment
+## Finance and Payment
 
 ## Boilerplates
 
@@ -55,10 +55,10 @@ Awesome Indie Hackers Tools (AIHT) is a directory listing tools and products use
 
 - [Uneed](https://www.uneed.best/) - Launch platform for your products, Product Hunt alternative.
 
-## Hosting & Cloud
+## Hosting and Cloud
 
-## Legal & Compliance
+## Legal and Compliance
 
 ## Customer Service
 
-## Networking & Community Building
+## Networking and Community Building
