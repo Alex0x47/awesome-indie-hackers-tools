@@ -38,6 +38,8 @@ _Some of the following links might contain an affiliate link. As a matter of tra
 ## Development
 - [Clobbr](https://clobbr.app/) - The app & CLI tool to load test your API endpoints.
 
+- [Scale to Zero AWS](https://scaletozeroaws.com/) - Deploy your app in minutes with serverless architecture.
+
 ## Design 
 - [Design Buddy](https://designbuddy.net/) - Ensures your designs are polished and stakeholder-ready every time.
 
@@ -45,6 +47,8 @@ _Some of the following links might contain an affiliate link. As a matter of tra
 
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
+
+- [Picasso](https://www.picassoapp.ca/) - Generate screenshots for the Apple App Store and upload them directly to App Store Connect.
 
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
