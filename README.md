@@ -80,4 +80,4 @@ _Some of the following links might contain an affiliate link. As a matter of tra
 
 ---
 
-> Created and maintained by [Alexandre Grisey](https://alexandre-grisey.fr/)
+_Created and maintained by [Alexandre Grisey](https://alexandre-grisey.fr/)_
