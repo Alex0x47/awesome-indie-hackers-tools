@@ -39,6 +39,7 @@ _Some of the following links might contain an affiliate link. As a matter of tra
 - [Clobbr](https://clobbr.app/) - The app & CLI tool to load test your API endpoints.
 
 ## Design 
+- [Design Buddy](https://designbuddy.net/) - Ensures your designs are polished and stakeholder-ready every time.
 
 ## Productivity
 
@@ -63,7 +64,7 @@ _Some of the following links might contain an affiliate link. As a matter of tra
 ## Launch
 - [Product Hunt](https://www.producthunt.com/) - Platform that lets users share and discover new products.
 
-- [Uneed](https://www.uneed.best/) - Launch platform for your products, Product Hunt alternative.
+- [Uneed](https://uneed.best?aff=KeBrq) - Launch platform for your products, Product Hunt alternative. 💲
 
 - [MicroLaunch](https://microlaunch.net/) - Discover world-class products & startups.
 
