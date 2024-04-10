@@ -44,6 +44,7 @@ _Some of the following links might contain an affiliate link. As a matter of tra
 ## Productivity
 
 ## Marketing
+- [Indie Page](https://indiepa.ge/) - A page to showcase your products.
 
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
@@ -52,6 +53,8 @@ _Some of the following links might contain an affiliate link. As a matter of tra
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
 
 - [SalesPopup](https://SalesPopup.io) - Increase your sales easily by showing recent transactions in a customizable popup users will trust.
+
+- [PoopUp](https://poopup.co/) - Show customized wake-up call popups on your web page.
 
 ## Finance and Payment
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
