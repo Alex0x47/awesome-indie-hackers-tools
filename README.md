@@ -69,7 +69,7 @@ _Some of the following links might contain an affiliate link. As a matter of tra
 - [MicroLaunch](https://microlaunch.net/) - Discover world-class products & startups.
 
 ## Directories
-- [AI Directories](https://aidirectori.es/?via=sdlvukfr1vvk00etygw3) - Directory of AI directories (+100). 💲
+- [AI Directories](https://aidirectori.es/?via=sdlvukfr1vvk00etygw3) - Directory of AI directories (+100 listed). 💲
 
 ## Hosting and Cloud
 
