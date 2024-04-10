@@ -39,7 +39,7 @@ Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products 
 - [Scale to Zero AWS](https://scaletozeroaws.com/?aff=KeBrq) - Deploy your app in minutes with serverless architecture.
 
 ## Design 
-- [Design Buddy](https://designbuddy.net/) - Ensures your designs are polished and stakeholder-ready every time.
+- [Design Buddy](https://designbuddy.net/) - Ensure your designs are polished and stakeholder-ready every time.
 
 ## Productivity
 
@@ -83,6 +83,7 @@ Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products 
 ## Customer Service
 
 ## Networking and Community Building
+- [r/indiehackers](https://www.reddit.com/r/indiehackers/) - subreddit of independent developers building their own way
 
 ---
 
