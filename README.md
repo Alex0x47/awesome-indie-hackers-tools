@@ -1,4 +1,7 @@
 # Awesome Indie Hackers Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+➡️ [Get notified about the newest tools via our newsletter!](https://aiht-newsletter.beehiiv.com/subscribe) ⬅️
+
+---
 ![logo of the awesome indie hackers tools directory](aiht_small.png)
 
 A curated list of tools and products for indie hackers
@@ -91,4 +94,4 @@ Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products 
 
 ---
 
-_Created and maintained by [Alexandre Grisey](https://alexandre-grisey.fr/)_
+➡️ [Get notified about the newest tools via our newsletter!](https://aiht-newsletter.beehiiv.com/subscribe) ⬅️
