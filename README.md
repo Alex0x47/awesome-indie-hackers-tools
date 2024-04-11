@@ -94,4 +94,4 @@ Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products 
 
 ---
 
-_Created and maintained by [Alexandre Grisey](https://alexandre-grisey.fr/)_
+➡️ [Get notified about the newest tools via our newsletter!](https://aiht-newsletter.beehiiv.com/subscribe) ⬅️
