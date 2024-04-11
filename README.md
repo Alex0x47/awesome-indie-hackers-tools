@@ -1,4 +1,7 @@
 # Awesome Indie Hackers Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+---
+🆕 [Get notified about the newest tools via our newsletter!](https://aiht-newsletter.beehiiv.com/subscribe)
+---
 ![logo of the awesome indie hackers tools directory](aiht_small.png)
 
 A curated list of tools and products for indie hackers
