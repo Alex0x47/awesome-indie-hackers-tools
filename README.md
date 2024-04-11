@@ -83,6 +83,8 @@ Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products 
 ## Customer Service
 
 ## Networking and Community Building
+- [Snowball](https://snowball.club/) - Grow your X (Twitter) audience in weeks, not years.
+
 - [r/indiehackers](https://www.reddit.com/r/indiehackers/) - subreddit of independent developers building their own way
 
 ---
