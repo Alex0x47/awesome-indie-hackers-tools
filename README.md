@@ -48,7 +48,7 @@ Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products 
 - [Scale to Zero AWS](https://scaletozeroaws.com/?aff=KeBrq) - Deploy your app in minutes with serverless architecture.
 
 ### Mobile development
-- [SwiftyLaunch](https://swiftylaun.ch?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
+- [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
 ## Design 
 - [Design Buddy](https://designbuddy.net/) - Ensure your designs are polished and stakeholder-ready every time.
