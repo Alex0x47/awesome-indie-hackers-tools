@@ -40,12 +40,12 @@ Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products 
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
 
 ## Development
-#### Web development
+### Web development
 - [Clobbr](https://clobbr.app/) - The app & CLI tool to load test your API endpoints.
 
 - [Scale to Zero AWS](https://scaletozeroaws.com/?aff=KeBrq) - Deploy your app in minutes with serverless architecture.
 
-#### mobile development
+### mobile development
 - [SwiftyLaunch](https://swiftylaun.ch?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
 ## Design 
