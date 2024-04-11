@@ -12,8 +12,8 @@ Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products 
 ## Contributing
 
 You can submit any tool that you think can be useful for the community, wether it's yours or not, wether it's been created by a solopreneur or by a big company, just by filling the following form:
-[https://tally.so/r/mV0rjy](Submission form)
-- All submitted tools will be reviewed to make sure that they're actually useful to the community.
+
+**[Submission form](https://tally.so/r/mV0rjy)**
 
 ## Table of Contents
 
