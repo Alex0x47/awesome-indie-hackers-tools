@@ -60,6 +60,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Picasso](https://www.picassoapp.ca/) - Generate screenshots for the Apple App Store and upload them directly to App Store Connect.
 
+- [GenPage](https://www.genpage.ai/) - Generate Custom Landing Pages, for every lead.
+
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
 
