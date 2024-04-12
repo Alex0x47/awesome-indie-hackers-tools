@@ -54,6 +54,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Design Buddy](https://designbuddy.net/) - Ensure your designs are polished and stakeholder-ready every time.
 
 ## Productivity
+- [Daito Authenticator](https://www.daito.io?fpr=ey6wu) - Daito's web-based 2FA authenticator lets you securely share 2FA across teams. Access anywhere without phones.
 
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
