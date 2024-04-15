@@ -37,6 +37,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Networking and Community Building](#networking-and-community-building)
 
 ## AI
+- [Junia](https://www.junia.ai/?via=alexandre) - Generate High Ranking AI Content In Minutes.
 
 ## Analytics and Data
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
@@ -52,6 +53,7 @@ You can submit any tool that you think can be useful for the community, wether i
 
 ## Design 
 - [Design Buddy](https://designbuddy.net/) - Ensure your designs are polished and stakeholder-ready every time.
+- [Creatica](https://creatica.app/) - Generate SVG Backgrounds to elevate your designs.
 
 ## Productivity
 - [Daito Authenticator](https://www.daito.io?fpr=ey6wu) - Daito's web-based 2FA authenticator lets you securely share 2FA across teams. Access anywhere without phones.
