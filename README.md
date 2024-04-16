@@ -41,6 +41,7 @@ You can submit any tool that you think can be useful for the community, wether i
 
 ## Analytics and Data
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
+- [Pirsch Analytics](https://pirsch.io/) - Privacy-friendly web analytics made and hosted in Germany.
 
 ## Development
 ### Web development
@@ -54,6 +55,7 @@ You can submit any tool that you think can be useful for the community, wether i
 ## Design 
 - [Design Buddy](https://designbuddy.net/) - Ensure your designs are polished and stakeholder-ready every time.
 - [Creatica](https://creatica.app/) - Generate SVG Backgrounds to elevate your designs.
+- [colorsandfonts](https://www.colorsandfonts.com/) - Color & typography tools for web developers & digital designers.
 
 ## Productivity
 - [Daito Authenticator](https://www.daito.io?fpr=ey6wu) - Daito's web-based 2FA authenticator lets you securely share 2FA across teams. Access anywhere without phones.
