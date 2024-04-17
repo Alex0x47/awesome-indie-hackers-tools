@@ -1,6 +1,7 @@
 # Awesome Indie Hackers Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-#### ➡️ [Get notified about the newest tools via our newsletter!](https://aiht-newsletter.beehiiv.com/subscribe) ⬅️
+
+**NEW:** Find all the product listed here and more on a dedicated directory: [Indie Dev Tools](http://indiedev.tools/) 🎉
 
 ---
 ![logo of the awesome indie hackers tools directory](aiht_small.png)
@@ -41,6 +42,7 @@ You can submit any tool that you think can be useful for the community, wether i
 
 ## Analytics and Data
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
+
 - [Pirsch Analytics](https://pirsch.io/) - Privacy-friendly web analytics made and hosted in Germany.
 
 ## Development
@@ -54,8 +56,11 @@ You can submit any tool that you think can be useful for the community, wether i
 
 ## Design 
 - [Design Buddy](https://designbuddy.net/) - Ensure your designs are polished and stakeholder-ready every time.
+
 - [Creatica](https://creatica.app/) - Generate SVG Backgrounds to elevate your designs.
+
 - [colorsandfonts](https://www.colorsandfonts.com/) - Color & typography tools for web developers & digital designers.
+- [QRCode.ing](https://www.qrcode.ing/) - Unique & Artistic QR Code Generator.
 
 ## Productivity
 - [Daito Authenticator](https://www.daito.io?fpr=ey6wu) - Daito's web-based 2FA authenticator lets you securely share 2FA across teams. Access anywhere without phones.
@@ -69,6 +74,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
+
+- [Meta Explorer](https://www.metaexplorer.co/) - Meta Explorer is a free chrome extension that allows you to check SEO meta tags of any site.
 
 ## Business and Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
@@ -108,4 +115,4 @@ You can submit any tool that you think can be useful for the community, wether i
 
 ---
 
-➡️ [Get notified about the newest tools via our newsletter!](https://aiht-newsletter.beehiiv.com/subscribe) ⬅️
+**➡️ [Get notified about the newest tools via our newsletter!](https://aiht-newsletter.beehiiv.com/subscribe) ⬅️**
