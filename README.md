@@ -24,6 +24,7 @@ You can submit any tool that you think can be useful for the community, wether i
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
 - [Design](#design)
+- [Optimization](#optimization)
 - [Productivity](#productivity)
 - [Marketing](#marketing)
 - [SEO](#seo)
@@ -60,7 +61,11 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Creatica](https://creatica.app/) - Generate SVG Backgrounds to elevate your designs.
 
 - [colorsandfonts](https://www.colorsandfonts.com/) - Color & typography tools for web developers & digital designers.
+
 - [QRCode.ing](https://www.qrcode.ing/) - Unique & Artistic QR Code Generator.
+
+## Optimization
+- [Tiny Img](https://tinyimg.cc/) - Reduce image file size by up to 80% without compromising quality.
 
 ## Productivity
 - [Daito Authenticator](https://www.daito.io?fpr=ey6wu) - Daito's web-based 2FA authenticator lets you securely share 2FA across teams. Access anywhere without phones.
