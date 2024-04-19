@@ -1,9 +1,8 @@
 # Awesome Indie Hackers Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 
-**NEW:** Find all the product listed here and more on a dedicated directory: [Indie Dev Tools](http://indiedev.tools/) 🎉
+## **🎉 NEW:** Find all the product listed here and more on a dedicated directory: [Indie Dev Tools](http://indiedev.tools/) 🎉
 
----
 ![logo of the awesome indie hackers tools directory](aiht_small.png)
 
 **A curated list of tools and products for indie hackers**
@@ -88,6 +87,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [SalesPopup](https://SalesPopup.io) - Increase your sales easily by showing recent transactions in a customizable popup users will trust.
 
 - [PoopUp](https://poopup.co/) - Show customized wake-up call popups on your web page.
+
+- [ReferralAPI](https://referralapi.com/) - Create customizable, powerful and trackable referral programs
 
 ## Finance and Payment
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
