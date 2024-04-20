@@ -1,13 +1,13 @@
-# Awesome Indie Hackers Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Indie Dev Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 
 ## **🎉 NEW:** Find all the product listed here and more on a dedicated directory: [Indie Dev Tools](http://indiedev.tools/) 🎉
 
-![logo of the awesome indie hackers tools directory](aiht_small.png)
+![logo of the awesome indie dev tools directory](aiht_small.png)
 
-**A curated list of tools and products for indie hackers**
+**A curated list of tools and products for indie deveoopers**
 
-Awesome Indie Hackers Tools (AIHT) is a directory that lists tools and products useful for indie hackers, to help them grow their own products.
+Awesome Indie Dev Tools is a directory that lists tools and products useful for indie developers, to help them grow their own products.
 
 ## Contributing
 
@@ -62,6 +62,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [colorsandfonts](https://www.colorsandfonts.com/) - Color & typography tools for web developers & digital designers.
 
 - [QRCode.ing](https://www.qrcode.ing/) - Unique & Artistic QR Code Generator.
+
+- [CharmUI](https://charmui.com/) - Beautiful production-ready components built with React and Tailwind CSS.
 
 ## Optimization
 - [Tiny Img](https://tinyimg.cc/) - Reduce image file size by up to 80% without compromising quality.
