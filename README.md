@@ -53,6 +53,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Kobble](https://kobble.io/) - Add authentication, analytics and payment to your API, SaaS or GPT, in under 10 minutes.
 
+- [JS-Confetti](https://github.com/loonywizard/js-confetti) - Add confetti to your website with js-confetti.
+
 ### Mobile development
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
