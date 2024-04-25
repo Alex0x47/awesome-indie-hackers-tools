@@ -55,6 +55,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [JS-Confetti](https://github.com/loonywizard/js-confetti) - Add confetti to your website with js-confetti.
 
+- [Dashcam 1.0](https://dashcam.io/) - The screen recorder for developers - Report bugs without reproducing them.
+
 ### Mobile development
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
