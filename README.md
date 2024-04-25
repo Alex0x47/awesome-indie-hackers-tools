@@ -72,6 +72,8 @@ You can submit any tool that you think can be useful for the community, wether i
 ## Optimization
 - [Tiny Img](https://tinyimg.cc/) - Reduce image file size by up to 80% without compromising quality.
 
+- [Flows](https://flows.sh/) - Flows lets you build any onboarding you want. Guide users, increase feature adoption, and improve revenue.
+
 ## Productivity
 - [Daito Authenticator](https://www.daito.io?fpr=ey6wu) - Daito's web-based 2FA authenticator lets you securely share 2FA across teams. Access anywhere without phones.
 
