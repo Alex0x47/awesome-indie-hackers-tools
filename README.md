@@ -91,6 +91,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Meta Explorer](https://www.metaexplorer.co/) - Meta Explorer is a free chrome extension that allows you to check SEO meta tags of any site.
 
+- [SearchSocket](https://searchsocket.com/) - Free AI-powered tool that provides real-time SEO suggestions to improve content's alignment with Google's guidelines.
+
 ## Business and Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
 
