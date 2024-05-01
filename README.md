@@ -93,6 +93,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [SearchSocket](https://searchsocket.com/) - Free AI-powered tool that provides real-time SEO suggestions to improve content's alignment with Google's guidelines.
 
+- [Backl.io](https://backl.io/) - Kickstart and grow your SEO by getting more backlinks.
+
 ## Business and Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
 
