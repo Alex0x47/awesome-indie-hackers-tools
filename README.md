@@ -71,6 +71,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [CharmUI](https://charmui.com/) - Beautiful production-ready components built with React and Tailwind CSS.
 
+- [Logoit](https://logoit.ghostkode.com/) - A simple stupid logo maker for everyone.
+
 ## Optimization
 - [Tiny Img](https://tinyimg.cc/) - Reduce image file size by up to 80% without compromising quality.
 
