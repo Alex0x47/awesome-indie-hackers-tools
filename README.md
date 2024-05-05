@@ -5,7 +5,7 @@
 
 ![logo of the awesome indie dev tools directory](aiht_small.png)
 
-**A curated list of tools and products for indie deveoopers**
+**A curated list of tools and products for indie developers**
 
 Awesome Indie Dev Tools is a directory that lists tools and products useful for indie developers, to help them grow their own products.
 
