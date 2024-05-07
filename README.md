@@ -73,6 +73,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Logoit](https://logoit.ghostkode.com/) - A simple stupid logo maker for everyone.
 
+- [CodeSnap](https://codesnap.dev/) - An image editor for developers, who want to share beautiful images of their code.
+
 ## Optimization
 - [Tiny Img](https://tinyimg.cc/) - Reduce image file size by up to 80% without compromising quality.
 
