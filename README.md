@@ -40,6 +40,10 @@ You can submit any tool that you think can be useful for the community, wether i
 ## AI
 - [Junia](https://www.junia.ai/?via=alexandre) - Generate High Ranking AI Content In Minutes.
 
+- [Astronuts](https://www.astronuts.io/) - AI for automated code reviews and error resolutions.
+
+- [Adsby](https://adsby.co/) - Your AI Co-Pilot for Google Ads.
+
 ## Analytics and Data
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
 
@@ -91,6 +95,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Picasso](https://www.picassoapp.ca/) - Generate screenshots for the Apple App Store and upload them directly to App Store Connect.
 
 - [GenPage](https://www.genpage.ai/) - Generate Custom Landing Pages, for every lead.
+
+- [cocomail](https://www.cocomail.io/) - An email marketing automation platform designed specifically for saas platforms.
 
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
