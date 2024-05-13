@@ -124,6 +124,8 @@ You can submit any tool that you think can be useful for the community, wether i
 ## Boilerplates
 - [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
 
+- [ChromeKit](https://www.chromekit.dev/) - Start developing your chrome extension with modern tools like ReactJS, TailwindCSS.
+
 ## Launch
 - [Product Hunt](https://www.producthunt.com/) - Platform that lets users share and discover new products.
 
