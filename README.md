@@ -44,6 +44,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Adsby](https://adsby.co/) - Your AI Co-Pilot for Google Ads.
 
+- [SharpAPI](https://sharpapi.com/ref/sharpapi_pssh8y3b) - Automate with AI in just two lines of code.
+
 ## Analytics and Data
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
 
@@ -137,6 +139,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [AI Directories](https://aidirectori.es/?via=sdlvukfr1vvk00etygw3) - Directory of AI directories (+100 listed).
 
 - [Quicklisting](https://quicklist.ing/?gr_pk=jdLY) - Submit your software startup to +200 directories and reach +23M monthly users.
+
+- [Tiny Startups](https://www.tinystartups.com/) - Discover the hottest 🔥 Tiny Startups.
 
 ## Hosting and Cloud
 
