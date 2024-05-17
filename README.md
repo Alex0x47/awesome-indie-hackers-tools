@@ -1,7 +1,7 @@
 # Awesome Indie Dev Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 
-## **🎉 NEW:** Find all the product listed here and more on a dedicated directory: [Indie Dev Tools](http://indiedev.tools/) 🎉
+### **🎉 NEW:** Find all the product listed here and more on a dedicated directory: [Indie Dev Tools](http://indiedev.tools/) 🎉
 
 ![logo of the awesome indie dev tools directory](aiht_small.png)
 
@@ -11,9 +11,7 @@ Awesome Indie Dev Tools is a directory that lists tools and products useful for 
 
 ## Contributing
 
-You can submit any tool that you think can be useful for the community, wether it's yours or not, wether it's been created by a solopreneur or by a big company, just by filling the following form:
-
-**[Submission form](https://tally.so/r/mV0rjy)**
+You can submit any tool that you think can be useful for the community, wether it's yours or not, by creating a PR or by submitting it to the [Indie Dev Tools Directory](https://indiedev.tools/). It'll be added on both platforms.
 
 ## Table of Contents
 
