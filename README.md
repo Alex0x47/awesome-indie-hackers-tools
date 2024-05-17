@@ -81,6 +81,10 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [CodeSnap](https://codesnap.dev/) - An image editor for developers, who want to share beautiful images of their code.
 
+- [Pika](https://pika.style/?via=alexandre) - Online screenshot editor & API for image generation
+
+- [Iconbuddy](https://iconbuddy.com/) - The ultimate source for icons: over 200k+ open source icons.
+
 ## Optimization
 - [Tiny Img](https://tinyimg.cc/) - Reduce image file size by up to 80% without compromising quality.
 
@@ -108,6 +112,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [SearchSocket](https://searchsocket.com/) - Free AI-powered tool that provides real-time SEO suggestions to improve content's alignment with Google's guidelines.
 
 - [Backl.io](https://backl.io/) - Kickstart and grow your SEO by getting more backlinks.
+
+- [Free sitemap.xml generator](https://www.seo-programming.com/free-sitemap-generator) - Free AI tool to create a sitemap.xml directly from your code
 
 ## Business and Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
