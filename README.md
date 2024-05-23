@@ -61,6 +61,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Dashcam 1.0](https://dashcam.io/) - The screen recorder for developers - Report bugs without reproducing them.
 
+- [Plunk](https://www.useplunk.com/) - The Email Platform for SaaS.
+
 ### Mobile development
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
