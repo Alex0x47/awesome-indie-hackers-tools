@@ -85,6 +85,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Iconbuddy](https://iconbuddy.com/) - The ultimate source for icons: over 200k+ open source icons.
 
+- [Coolors](https://coolors.co/?ref=664f2bc224253d000be6c2af) - Create the perfect color palette with Coolors.
+
 ## Optimization
 - [Tiny Img](https://tinyimg.cc/) - Reduce image file size by up to 80% without compromising quality.
 
