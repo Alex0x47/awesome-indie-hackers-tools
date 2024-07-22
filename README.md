@@ -44,6 +44,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [SharpAPI](https://sharpapi.com/ref/sharpapi_pssh8y3b) - Automate with AI in just two lines of code.
 
+- [MakeLanding](https://makelanding.ai/?via=70wlhphph5aec8bxebe9) - MakeLanding uses AI to make a beautiful landing page in seconds!
+
 ## Analytics and Data
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
 
@@ -62,6 +64,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Dashcam 1.0](https://dashcam.io/) - The screen recorder for developers - Report bugs without reproducing them.
 
 - [Plunk](https://www.useplunk.com/) - The Email Platform for SaaS.
+
+- [Marvin](https://www.marvinbot.com/) - The browser extension to Auto-Fill Stripe's test payment info
 
 ### Mobile development
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
@@ -92,10 +96,14 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Flows](https://flows.sh/) - Flows lets you build any onboarding you want. Guide users, increase feature adoption, and improve revenue.
 
+- [SpeedMeter](https://www.speedmeter.app/) - Analyze your website performance and make it faster today
+
 ## Productivity
 - [Daito Authenticator](https://www.daito.io?fpr=ey6wu) - Daito's web-based 2FA authenticator lets you securely share 2FA across teams. Access anywhere without phones.
 
 - [Detachless](https://detachless.com/) - Publish directly from Figma to web with Detachless!
+
+- [Unicorn Platform](https://unicornplatform.com/?via=alexandre52) - AI website builder that helps to quickly create websites without design or development skills
 
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
@@ -105,6 +113,10 @@ You can submit any tool that you think can be useful for the community, wether i
 - [GenPage](https://www.genpage.ai/) - Generate Custom Landing Pages, for every lead.
 
 - [cocomail](https://www.cocomail.io/) - An email marketing automation platform designed specifically for saas platforms.
+
+- [Modalcast](https://www.modalcast.com/) - Connect directly with your users with Modalcast
+
+- [BacklinkGPT](https://www.backlinkgpt.com/?aff=KeBrq) - Automate Your Link-Building with AI-Personalized Outreach
 
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
@@ -117,6 +129,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Free sitemap.xml generator](https://www.seo-programming.com/free-sitemap-generator) - Free AI tool to create a sitemap.xml directly from your code
 
+- [Rank on Bing](https://rankonbing.com/) - Automatically rank your pages on Bing within a few hours, get traffic instantly
+
 ## Business and Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
 
@@ -125,6 +139,9 @@ You can submit any tool that you think can be useful for the community, wether i
 - [PoopUp](https://poopup.co/) - Show customized wake-up call popups on your web page.
 
 - [ReferralAPI](https://referralapi.com/) - Create customizable, powerful and trackable referral programs
+
+- [SureMeet](https://suremeet.io/) - Calendly integration that prevents no-shows
+
 
 ## Finance and Payment
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
