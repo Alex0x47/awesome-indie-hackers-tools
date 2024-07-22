@@ -183,6 +183,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 - [MicroLaunch](https://microlaunch.net/) - Discover world-class products & startups.
 
+- [Indie Dev Tools](https://indiedev.tools/) - The Best Launch Platform of Tools Made For and By Developers
+
 ## Directories
 - [AI Directories](https://aidirectori.es/?via=sdlvukfr1vvk00etygw3) - Directory of AI directories (+100 listed).
 
