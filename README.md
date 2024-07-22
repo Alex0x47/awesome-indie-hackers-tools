@@ -136,6 +136,29 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [ChromeKit](https://www.chromekit.dev/) - Start developing your chrome extension with modern tools like ReactJS, TailwindCSS.
 
+- [WrapFast](https://wrapfa.st/?via=alexandre) - SwiftUI boilerplate to create AI wrappers or any iOS app FAST!
+  
+- [Indie Starter](https://indie-starter.dev/?aff=KeBrq) - Minimalistic Well-crafted Nextjs Boilerplate
+
+- [Rapid Launch](https://rapidlaunch.it/?via=h6hczattr8atr4p9yp6m) - Nuxt boilerplate with everything you need to launch your product in minutes
+
+- [Fast Flutter Template](https://www.fastfluttertemplate.com/?aff=KeBrq) - The best Flutter template to quick-start your app!
+
+- [Shipped](https://shipped.club/?aff=KeBrq) - The Next.js Startup Boilerplate for busy founders
+
+- [staarter.dev](https://staarter.dev/?aff=KeBrq) - The best Next.js SaaS template to cut down development time.
+
+- [NextJet](https://www.nextjet.dev/?via=alexandre) - The Next.js SaaS boilerplate with all key features for your SaaS startup
+
+- [Larafast](https://larafast.com/?aff=KeBrq) - Laravel SaaS Starter Kit with ready-to-go components
+
+- [LaunchFast](https://www.launchfa.st/?via=blanlvp1xka56er49zml) - LaunchFast proposes boilerplates using different technologies
+
+- [ShipAIFast](https://shipaifast.com/?via=alexandre) - 
+Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
+
+- [NextJSDirectory](https://www.nextjsdirectory.com/?aff=KeBrq) - NextJSDirectory is a boilerplate with all you need to quickly build a directory
+
 ## Launch
 - [Product Hunt](https://www.producthunt.com/) - Platform that lets users share and discover new products.
 
