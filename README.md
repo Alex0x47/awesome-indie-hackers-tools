@@ -67,6 +67,10 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Marvin](https://www.marvinbot.com/) - The browser extension to Auto-Fill Stripe's test payment info
 
+- [Pulsetic](https://pulsetic.com/?fpr=alexandre65) - Get website downtime alerts by phone call, SMS, email or Slack
+
+- [Hydrozen.io](https://hydrozen.io/) - Hydrozen helps you monitor the availability of your websites
+
 ### Mobile development
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
@@ -118,6 +122,14 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [BacklinkGPT](https://www.backlinkgpt.com/?aff=KeBrq) - Automate Your Link-Building with AI-Personalized Outreach
 
+- [Tapmention](https://store.tapmention.com/?aff=KeBrq) - Tapmention turns every Reddit mention into a customer
+
+- [Poper](https://www.poper.ai/?ref=alexandre) - Create Smart Popups with AI and Increase Engagement
+
+- [FAQ popup](https://www.faqpopup.com/) - Maximize Conversion Rates with Proactive FAQs
+
+- [Outblog](https://outblog.me/) - Build the perfect blog for your SaaS
+
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
 
@@ -142,6 +154,7 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [SureMeet](https://suremeet.io/) - Calendly integration that prevents no-shows
 
+- [Competitor Research](https://www.competitoresearch.com/) - Get the most important information about your competitors
 
 ## Finance and Payment
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
@@ -193,6 +206,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 - [Tiny Startups](https://www.tinystartups.com/) - Discover the hottest 🔥 Tiny Startups.
 
 ## Hosting and Cloud
+
+- [Static](https://static.app/) - One-click hosting solution for your static website
 
 ## Legal and Compliance
 
