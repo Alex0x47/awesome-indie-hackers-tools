@@ -54,6 +54,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 ## Development
 ### Web development
+- [StablePush](https://stablepush.dev/) - The CI/CD tool that ensures your site complies with SEO and accessibility standards
+
 - [Clobbr](https://clobbr.app/) - The app & CLI tool to load test your API endpoints.
 
 - [Scale to Zero AWS](https://scaletozeroaws.com/?aff=KeBrq) - Deploy your app in minutes with serverless architecture.
@@ -211,6 +213,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 - [Static](https://static.app/) - One-click hosting solution for your static website
 
 ## Legal and Compliance
+
+- [GDPRValidator](https://gdprvalidator.eu/) - Test your website compliance with GDPR in seconds, for free.
 
 ## Customer Service
 
