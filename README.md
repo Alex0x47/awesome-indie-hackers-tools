@@ -111,6 +111,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Detachless](https://detachless.com/) - Publish directly from Figma to web with Detachless!
 
 - [Unicorn Platform](https://unicornplatform.com/?via=alexandre52) - AI website builder that helps to quickly create websites without design or development skills
+- [Cobalt Studio Tools Hub](https://techchenko.github.io/cobaltstudio-products/tools/) - Free, no-signup micro-tools for freelancers & indie founders (invoices, contracts, cold emails, retainers, etc.).
+
 
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
