@@ -203,6 +203,7 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 ## Directories
 - [AI Directories](https://aidirectori.es/?via=sdlvukfr1vvk00etygw3) - Directory of AI directories (+100 listed).
+- [IndieStack](https://indiestack.fly.dev/) - A curated directory of indie-built SaaS alternatives.
 
 - [Quicklisting](https://quicklist.ing/?gr_pk=jdLY) - Submit your software startup to +200 directories and reach +23M monthly users.
 
