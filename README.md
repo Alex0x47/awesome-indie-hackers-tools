@@ -111,6 +111,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Detachless](https://detachless.com/) - Publish directly from Figma to web with Detachless!
 
 - [Unicorn Platform](https://unicornplatform.com/?via=alexandre52) - AI website builder that helps to quickly create websites without design or development skills
+- **[BeginThings](https://beginthings.com)** – 96+ free browser-based productivity tools for freelancers: invoice generator, time tracker, Pomodoro timer, QR code maker, UTM builder, rate calculator, and more. No login required.
 
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
