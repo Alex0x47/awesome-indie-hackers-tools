@@ -146,6 +146,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Rank on Bing](https://rankonbing.com/) - Automatically rank your pages on Bing within a few hours, get traffic instantly
 
+- [PageGuard](https://pageguard.org) - Free website health scanner that checks SEO, accessibility (WCAG/ADA), performance & best practices in 30 seconds.
+
 ## Business and Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
 
