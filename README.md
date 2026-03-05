@@ -147,6 +147,10 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Rank on Bing](https://rankonbing.com/) - Automatically rank your pages on Bing within a few hours, get traffic instantly
 
 ## Business and Sales
+
+- [ScopeShield](https://scopecreep-app.surge.sh) - Track and enforce project scope with clients. Detects scope creep, generates change orders, gates deliverables on approval. Early access $9/mo.
+
+- [InvoiceChaser](https://invoicechaser-app.surge.sh) - Automated late payment follow-up. Sends escalating reminders so you don't lose hours chasing clients. Early access $9/mo.
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
 
 - [SalesPopup](https://SalesPopup.io) - Increase your sales easily by showing recent transactions in a customizable popup users will trust.
