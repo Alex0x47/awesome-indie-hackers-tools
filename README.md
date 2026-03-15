@@ -47,6 +47,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [MakeLanding](https://makelanding.ai/?via=70wlhphph5aec8bxebe9) - MakeLanding uses AI to make a beautiful landing page in seconds!
 
+- [Signbee](https://signb.ee) - Document signing API for AI agents. Send contracts for e-signature via API, MCP, or Agent Skill with email OTP verification.
+
 ## Analytics and Data
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
 
