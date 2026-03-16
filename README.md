@@ -164,6 +164,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
 
+- [KeepRule](https://keeprule.com/) - AI-powered investment discipline tracking from 26 legendary investors including Buffett, Munger, and Dalio.
+
 ## Boilerplates
 - [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
 
