@@ -133,6 +133,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Outblog](https://outblog.me/) - Build the perfect blog for your SaaS
 
+- [SocialBu](https://socialbu.com/) - AI-powered social media management platform for scheduling, publishing, and automating content across X, Instagram, LinkedIn, Facebook, TikTok, and more.
+
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
 
