@@ -131,6 +131,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [FAQ popup](https://www.faqpopup.com/) - Maximize Conversion Rates with Proactive FAQs
 
+- [JustBlogged](https://justblogged.com) - No-setup blogging platform. Sign up, pick a name, start writing. Free forever, $9/mo Pro.
+
 - [Outblog](https://outblog.me/) - Build the perfect blog for your SaaS
 
 ## SEO
