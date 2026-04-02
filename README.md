@@ -3,6 +3,7 @@
 **[Subscribe](https://github.com/Alex0x47/awesome-indie-hackers-tools/subscription) to receive notifications with updates.**
 
 ### **🎉 NEW:** Find all the product listed here and more on a dedicated directory: [Indie Dev Tools](http://indiedev.tools/) 🎉
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 ![logo of the awesome indie dev tools directory](aiht_small.png)
 
