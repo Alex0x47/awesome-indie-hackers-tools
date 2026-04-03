@@ -222,6 +222,7 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 - [Snowball](https://snowball.club/?linkId=lp_392285&sourceId=al-gsy&tenantId=snowball) - Grow your X (Twitter) audience in weeks, not years.
 
 - [r/indiehackers](https://www.reddit.com/r/indiehackers/) - subreddit of independent developers building their own way.
+- [TaleForge](https://www.tale-forge.com/) - Free creative writing platform with book, manga/webtoon, and screenplay editors. Marketplace, offline PWA, 10 languages.
 
 ---
 
