@@ -131,6 +131,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [FAQ popup](https://www.faqpopup.com/) - Maximize Conversion Rates with Proactive FAQs
 
+- [TestimonialFlow](https://testimonialflow-kappa.vercel.app/) - Collect customer testimonials and embed them on your website in 2 minutes.
+
 - [Outblog](https://outblog.me/) - Build the perfect blog for your SaaS
 
 ## SEO
