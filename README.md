@@ -208,6 +208,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 - [Tiny Startups](https://www.tinystartups.com/) - Discover the hottest 🔥 Tiny Startups.
 
+- [Solo-Business](https://solo-business.com) - Directory of business models, case studies for solopreneurs.
+
 ## Hosting and Cloud
 
 - [Static](https://static.app/) - One-click hosting solution for your static website
