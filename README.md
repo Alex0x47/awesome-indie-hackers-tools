@@ -35,6 +35,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Customer Service](#customer-service)
 - [Legal and Compliance](#legal-and-compliance)
 - [Networking and Community Building](#networking-and-community-building)
+* [Launched](https://launched.deskio.org) – Merit-based product discovery platform for indie makers. No algorithm, no paid placement, 30-second submission. Free forever.
 
 ## AI
 - [Junia](https://www.junia.ai/?via=alexandre) - Generate High Ranking AI Content In Minutes.
