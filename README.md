@@ -127,6 +127,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Tapmention](https://store.tapmention.com/?aff=KeBrq) - Tapmention turns every Reddit mention into a customer
 
+- [BulkPublish](https://www.bulkpublish.com/) - Social media scheduling API for 11 platforms with Python & Node.js SDKs, MCP server, and Zapier/n8n/Make integrations. Free tier available.
+
 - [Poper](https://www.poper.ai/?ref=alexandre) - Create Smart Popups with AI and Increase Engagement
 
 - [FAQ popup](https://www.faqpopup.com/) - Maximize Conversion Rates with Proactive FAQs
