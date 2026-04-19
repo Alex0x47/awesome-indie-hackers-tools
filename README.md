@@ -47,6 +47,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [MakeLanding](https://makelanding.ai/?via=70wlhphph5aec8bxebe9) - MakeLanding uses AI to make a beautiful landing page in seconds!
 
+- [AceTagGen](https://acetaggen.com) - Free structured prompt builder for Suno AI music. 3,000+ tested tags in a 12-step questionnaire with built-in quality score. Includes a free public API and open-source TypeScript library.
+
 ## Analytics and Data
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
 
