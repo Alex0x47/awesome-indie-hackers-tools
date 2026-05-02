@@ -162,6 +162,8 @@ You can submit any tool that you think can be useful for the community, wether i
 ## Finance and Payment
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
 
+- [TaliiVue](https://taliivue.com) - A Private Revenue Dashboard for US freelancers. Local single-HTML-file app with Tax Vault, 1099-NEC threshold tracking, and quarterly 1040-ES estimates. No cloud, no account.
+
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
 
 ## Boilerplates
