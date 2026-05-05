@@ -37,6 +37,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Networking and Community Building](#networking-and-community-building)
 
 ## AI
+- [Brainiall](https://chat.brainiall.com) - 104 AI models behind one OpenAI-compatible API. Free tier, $5.99/mo flat. EU-hosted (GDPR compliant).
+
 - [Junia](https://www.junia.ai/?via=alexandre) - Generate High Ranking AI Content In Minutes.
 
 - [Astronuts](https://www.astronuts.io/) - AI for automated code reviews and error resolutions.
