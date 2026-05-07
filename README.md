@@ -47,6 +47,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [MakeLanding](https://makelanding.ai/?via=70wlhphph5aec8bxebe9) - MakeLanding uses AI to make a beautiful landing page in seconds!
 
+- [IdeaTwister](https://ideatwister.com) - Locally-run AI engine that turns one rough business idea into 50+ scored variations across 15 strategic angles, with live market research baked in. Built for solo founders.
+
 ## Analytics and Data
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
 
