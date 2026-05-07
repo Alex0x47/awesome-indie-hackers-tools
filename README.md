@@ -114,7 +114,7 @@ You can submit any tool that you think can be useful for the community, wether i
 
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
-
+- - [Peddlum](https://peddlum.com) - Marketing tool for selling digital products with built-in creator campaigns, affiliate tracking, and UGC promotion.
 - [Picasso](https://www.picassoapp.ca/) - Generate screenshots for the Apple App Store and upload them directly to App Store Connect.
 
 - [GenPage](https://www.genpage.ai/) - Generate Custom Landing Pages, for every lead.
