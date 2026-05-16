@@ -164,6 +164,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
 
+- [Micro-SaaS Runway Price Floor Calculator](https://micro-saas-runway-price-floor-calculator.vercel.app/) - No-signup browser calculator for estimating a bootstrapped Micro-SaaS price floor, break-even customers, runway gap, and unit economics.
+
 ## Boilerplates
 - [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
 
