@@ -145,6 +145,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Free sitemap.xml generator](https://www.seo-programming.com/free-sitemap-generator) - Free AI tool to create a sitemap.xml directly from your code
 
 - [Rank on Bing](https://rankonbing.com/) - Automatically rank your pages on Bing within a few hours, get traffic instantly
+- [FeedPulse](https://feed-pulse.com/) - Free SEO checker suite for indie hackers: Traffic Rank, DA, DR, Backlinks, SERP, Index, Lighthouse. No signup, transparent data sources, free embeddable badges.
 
 ## Business and Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
