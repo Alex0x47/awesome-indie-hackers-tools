@@ -110,6 +110,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Detachless](https://detachless.com/) - Publish directly from Figma to web with Detachless!
 
+- [Gmail Inbox Intel](https://apify.com/foxck/gmail-inbox-intel) - Friday triage list of client emails that went cold. Ranks stalled Gmail threads by SLA breach age. Open-source Apify Actor (MIT) with optional self-host bundle for solo founders and freelancers.
+
 - [Unicorn Platform](https://unicornplatform.com/?via=alexandre52) - AI website builder that helps to quickly create websites without design or development skills
 
 ## Marketing
