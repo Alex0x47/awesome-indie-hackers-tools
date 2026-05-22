@@ -133,6 +133,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Outblog](https://outblog.me/) - Build the perfect blog for your SaaS
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Suite of free browser-based design utilities: AI background remover (runs locally via ONNX), color palette generator, favicon generator, and OG image generator. No signup, open source.
+
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
 
@@ -145,6 +147,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Free sitemap.xml generator](https://www.seo-programming.com/free-sitemap-generator) - Free AI tool to create a sitemap.xml directly from your code
 
 - [Rank on Bing](https://rankonbing.com/) - Automatically rank your pages on Bing within a few hours, get traffic instantly
+
+- [TinyTools SEO Meta Generator](https://tinytools-smoky.vercel.app/seo-meta-generator/) - Generate complete SEO, Open Graph, and Twitter Card meta tags with live preview. Free & no signup.
 
 ## Business and Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
