@@ -159,6 +159,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Competitor Research](https://www.competitoresearch.com/) - Get the most important information about your competitors
 
+- [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence; scores accounts from your PostHog product-usage data + CRM and surfaces the warmest leads for sales. Self-hostable (OSS alternative to Pocus / Common Room).
+
 ## Finance and Payment
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
 
