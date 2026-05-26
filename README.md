@@ -74,6 +74,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Hydrozen.io](https://hydrozen.io/) - Hydrozen helps you monitor the availability of your websites
 
+- [FixRLS](https://fixrls.dev) - Generate Supabase RLS SQL, key placement guidance, MCP guardrails, AI repair prompts, and proof-of-fix tests.
+
 ### Mobile development
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
