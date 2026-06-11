@@ -214,6 +214,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 ## Legal and Compliance
 
+- [LLC Class](https://llcclass.com/wyoming) - Wyoming LLC registration for non-US founders. One-stop solution including registered agent, EIN filing, and operating agreement. Built to help indie hackers outside the US accept Stripe payments and open Mercury business bank accounts.
+
 - [GDPRValidator](https://gdprvalidator.eu/) - Test your website compliance with GDPR in seconds, for free.
 - [LLC Class](https://llcclass.com) - [Wyoming LLC registration](https://llcclass.com/wyoming) for non-US founders — includes [registered agent for LLC](https://llcclass.com/what-is-llc-registered-agent), EIN, and Operating Agreement to enable Stripe and US business banking.
 
