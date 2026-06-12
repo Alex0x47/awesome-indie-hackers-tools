@@ -39,6 +39,8 @@ You can submit any tool that you think can be useful for the community, wether i
 ## AI
 - [Junia](https://www.junia.ai/?via=alexandre) - Generate High Ranking AI Content In Minutes.
 
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude, ChatGPT, and other AI platforms.
+
 - [Astronuts](https://www.astronuts.io/) - AI for automated code reviews and error resolutions.
 
 - [Adsby](https://adsby.co/) - Your AI Co-Pilot for Google Ads.
