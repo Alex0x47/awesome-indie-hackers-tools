@@ -47,6 +47,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [MakeLanding](https://makelanding.ai/?via=70wlhphph5aec8bxebe9) - MakeLanding uses AI to make a beautiful landing page in seconds!
 
+- [Hailuo 2 Video](https://hailuo2.video/) - Browser-based image-to-video generator built around the Hailuo model. Takes a first-frame image and prompt, returns a short cinematic video clip. Free trial available.
+
 ## Analytics and Data
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
 
