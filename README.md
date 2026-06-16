@@ -163,6 +163,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
 
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
+- [Ecommerce Profit Tracker PRO](https://whop.com/glm-643b/ecommerce-profit-tracker-pro-know-your-real-profit) - Excel/Google Sheets workbook for indie makers selling on Etsy, Shopify, Amazon or eBay. Calculates true net profit per order after fees, ad spend and COGS. One-time $19, no subscription.
 
 ## Boilerplates
 - [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
