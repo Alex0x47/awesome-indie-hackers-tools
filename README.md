@@ -75,6 +75,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Hydrozen.io](https://hydrozen.io/) - Hydrozen helps you monitor the availability of your websites
 
 ### Mobile development
+- [Marteso](https://marteso.com) - ASO keyword tracking, AI metadata optimization and competitor analysis for indie iOS developers. Permanent free tier, Pro at €18/month.
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
 ## Design 
