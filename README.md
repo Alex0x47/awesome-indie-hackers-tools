@@ -26,6 +26,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Productivity](#productivity)
 - [Marketing](#marketing)
 - [SEO](#seo)
+- [Security](#security)
 - [Finance and Payment](#finance-and-payment)
 - [Business and Sales](#business-and-sales)
 - [Boilerplates](#boilerplates)
@@ -145,6 +146,9 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Free sitemap.xml generator](https://www.seo-programming.com/free-sitemap-generator) - Free AI tool to create a sitemap.xml directly from your code
 
 - [Rank on Bing](https://rankonbing.com/) - Automatically rank your pages on Bing within a few hours, get traffic instantly
+
+## Security
+- [CheckVibe](https://checkvibe.dev) - Paste a URL to scan your app for 100+ security issues (exposed API keys, open Supabase tables, missing headers) plus SEO and AEO/AI-search visibility, with copy-paste AI fixes — free, no signup.
 
 ## Business and Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
