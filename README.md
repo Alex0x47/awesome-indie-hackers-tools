@@ -74,6 +74,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Hydrozen.io](https://hydrozen.io/) - Hydrozen helps you monitor the availability of your websites
 
+- [UnfoldCMS](https://unfoldcms.com/) - Self-hosted CMS built on Laravel 12 + React 19 + shadcn/ui. No monthly SaaS fees — own your content stack.
+
 ### Mobile development
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
