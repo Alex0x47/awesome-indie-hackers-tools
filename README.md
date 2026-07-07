@@ -146,6 +146,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Rank on Bing](https://rankonbing.com/) - Automatically rank your pages on Bing within a few hours, get traffic instantly
 
+- [AnswerLens](https://app.sfdj.net/) - Audits a B2B SaaS site's public evidence layer: pricing, proof, docs, comparison, trust, schema, and `llms.txt` gaps. Use it before SEO or AI-search work when you need a source-backed fix plan; not for live ranking, citation, or traffic monitoring.
+
 ## Business and Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
 
