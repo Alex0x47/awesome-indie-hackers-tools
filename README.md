@@ -77,6 +77,8 @@ You can submit any tool that you think can be useful for the community, wether i
 ### Mobile development
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
+- [App Store Rejection Codes](https://shotlingo.com/tools/app-store-rejection-codes) - Free searchable lookup of Apple App Store review guideline rejection codes with fix guidance, so you spend less time in App Review limbo.
+
 ## Design 
 - [Design Buddy](https://designbuddy.net/) - Ensure your designs are polished and stakeholder-ready every time.
 
