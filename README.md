@@ -74,6 +74,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Hydrozen.io](https://hydrozen.io/) - Hydrozen helps you monitor the availability of your websites
 
+- [KaiMail](https://kaimail.net/) - Custom domain emails, simplified. Receive, forward, and send email on your own domain with webhooks and SMTP.
+
 ### Mobile development
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
@@ -112,6 +114,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Unicorn Platform](https://unicornplatform.com/?via=alexandre52) - AI website builder that helps to quickly create websites without design or development skills
 
+- [PuchiDen](https://puchiden.app/) - Call banks, suppliers, and customers in 180+ countries from your browser at pay-per-minute rates. No app or SIM needed.
+
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
 
@@ -145,6 +149,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Free sitemap.xml generator](https://www.seo-programming.com/free-sitemap-generator) - Free AI tool to create a sitemap.xml directly from your code
 
 - [Rank on Bing](https://rankonbing.com/) - Automatically rank your pages on Bing within a few hours, get traffic instantly
+
+- [Kafkai](https://kafkai.com/) - Track competitor rankings and keywords, find content gaps, and generate SEO-optimized content.
 
 ## Business and Sales
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
