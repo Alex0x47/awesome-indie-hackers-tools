@@ -94,6 +94,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Pika](https://pika.style/?via=alexandre) - Online screenshot editor & API for image generation
 
+- [Moonshot](https://ameeramer.github.io/) - Screenshot beautifier that runs 100% in the browser (device frames, gradient backdrops, retina export). No signup, nothing uploaded. Free with a one-time Pro tier.
+
 - [Iconbuddy](https://iconbuddy.com/) - The ultimate source for icons: over 200k+ open source icons.
 
 - [Coolors](https://coolors.co/?ref=664f2bc224253d000be6c2af) - Create the perfect color palette with Coolors.
