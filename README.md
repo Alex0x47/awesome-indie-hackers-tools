@@ -163,6 +163,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
 
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
+- [Netkiln](https://netkiln.com) - Paste a Stripe/PayPal payouts CSV; get a public client-ready revenue-health page (free draft; $19 clean unlock).
 
 ## Boilerplates
 - [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
