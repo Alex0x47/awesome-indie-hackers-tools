@@ -112,6 +112,12 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Unicorn Platform](https://unicornplatform.com/?via=alexandre52) - AI website builder that helps to quickly create websites without design or development skills
 
+## Education & Engagement Tools
+
+- [100 Life Simulators](https://ordinarymantrying.com/tools/simulators.html) - Put your users at real historical decision points. 100 figures, 6–10 choices each, reveal after every answer. Great inspiration for engagement mechanics.
+
+- [Mind Traps](https://ordinarymantrying.com/tools/mind-traps.html) - Interactive cognitive bias quiz. 40 psychological laws, 320+ real-world scenarios. No backend — pure HTML/JS.
+
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
 
