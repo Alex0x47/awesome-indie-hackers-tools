@@ -51,6 +51,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
 
 - [Pirsch Analytics](https://pirsch.io/) - Privacy-friendly web analytics made and hosted in Germany.
+- [Apstal](https://apstal.com) - AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant. Free tier: 100K events/month.
 
 ## Development
 ### Web development
