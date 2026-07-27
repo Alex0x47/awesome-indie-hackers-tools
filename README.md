@@ -113,6 +113,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Unicorn Platform](https://unicornplatform.com/?via=alexandre52) - AI website builder that helps to quickly create websites without design or development skills
 
 ## Marketing
+- [SocialClaw](https://getsocialclaw.com/) - Schedule and publish posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress from one dashboard, API, CLI, or MCP.
+
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
 
 - [Picasso](https://www.picassoapp.ca/) - Generate screenshots for the Apple App Store and upload them directly to App Store Connect.
