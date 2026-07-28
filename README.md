@@ -66,6 +66,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Dashcam 1.0](https://dashcam.io/) - The screen recorder for developers - Report bugs without reproducing them.
 
+- [sms-florin](https://flo-voice1.com) - Rent a real phone number via API to test SMS/OTP verification flows without burning your personal number.
+
 - [Plunk](https://www.useplunk.com/) - The Email Platform for SaaS.
 
 - [Marvin](https://www.marvinbot.com/) - The browser extension to Auto-Fill Stripe's test payment info
