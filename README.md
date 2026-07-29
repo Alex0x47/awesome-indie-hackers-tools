@@ -39,6 +39,8 @@ You can submit any tool that you think can be useful for the community, wether i
 ## AI
 - [Junia](https://www.junia.ai/?via=alexandre) - Generate High Ranking AI Content In Minutes.
 
+- [GPTGeminiGrok.AI](https://trygrokai.asia) - Browser-based workspace for chatting with GPT, Gemini, and Grok models with 10 free requests per day.
+
 - [Astronuts](https://www.astronuts.io/) - AI for automated code reviews and error resolutions.
 
 - [Adsby](https://adsby.co/) - Your AI Co-Pilot for Google Ads.
