@@ -204,6 +204,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 ## Directories
 - [AI Directories](https://aidirectori.es/?via=sdlvukfr1vvk00etygw3) - Directory of AI directories (+100 listed).
 
+- [App Scout](https://appscout.kolee.kr) - Browse trending products and categories from Product Hunt, built for indie makers doing market research.
+
 - [Quicklisting](https://quicklist.ing/?gr_pk=jdLY) - Submit your software startup to +200 directories and reach +23M monthly users.
 
 - [Tiny Startups](https://www.tinystartups.com/) - Discover the hottest 🔥 Tiny Startups.
