@@ -164,6 +164,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
 
+- [Indiadex Swap Widget](https://indiadexswap.xyz/embed-widget) - Free embeddable non-custodial crypto swap widget for your site, one script tag — earn 50% revenue share on swaps it drives.
+
 ## Boilerplates
 - [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
 
