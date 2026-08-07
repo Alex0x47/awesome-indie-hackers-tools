@@ -132,6 +132,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [FAQ popup](https://www.faqpopup.com/) - Maximize Conversion Rates with Proactive FAQs
 
 - [Outblog](https://outblog.me/) - Build the perfect blog for your SaaS
+- [Autoposting](https://autoposting.ai) - AI social media manager that writes, clips, and schedules your posts
 
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
