@@ -217,6 +217,7 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 - [GDPRValidator](https://gdprvalidator.eu/) - Test your website compliance with GDPR in seconds, for free.
 
 ## Customer Service
+- [ReviewReply](https://joinreviewreply.com) - Free AI tool that writes professional replies to Google/Yelp/TripAdvisor reviews in seconds, no signup required.
 
 ## Networking and Community Building
 - [Snowball](https://snowball.club/?linkId=lp_392285&sourceId=al-gsy&tenantId=snowball) - Grow your X (Twitter) audience in weeks, not years.
