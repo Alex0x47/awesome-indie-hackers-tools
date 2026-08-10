@@ -208,6 +208,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 - [Tiny Startups](https://www.tinystartups.com/) - Discover the hottest 🔥 Tiny Startups.
 
+- [StackIndex AI](https://stackindexai.com) - Comparison catalog of AI/SaaS tools for solo founders, with hands-on editorial reviews.
+
 ## Hosting and Cloud
 
 - [Static](https://static.app/) - One-click hosting solution for your static website
