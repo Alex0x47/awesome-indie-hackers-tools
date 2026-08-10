@@ -207,6 +207,7 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 - [Quicklisting](https://quicklist.ing/?gr_pk=jdLY) - Submit your software startup to +200 directories and reach +23M monthly users.
 
 - [Tiny Startups](https://www.tinystartups.com/) - Discover the hottest 🔥 Tiny Startups.
+- [Korelyy](https://korelyy.com) - Privacy-first collection of 100+ free online tools (image, PDF, unit, JSON, generators). No signup, runs entirely in your browser. Six languages supported.
 
 ## Hosting and Cloud
 
