@@ -165,6 +165,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
 
 ## Boilerplates
+- [Onelo](https://onelo.tools/) - Auth, paywall on your own Stripe, feature flags, monitoring, and more — 14 modules wired to one identity, one SDK per platform.
+
 - [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
 
 - [ChromeKit](https://www.chromekit.dev/) - Start developing your chrome extension with modern tools like ReactJS, TailwindCSS.
