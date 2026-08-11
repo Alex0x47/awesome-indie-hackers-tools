@@ -133,6 +133,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Outblog](https://outblog.me/) - Build the perfect blog for your SaaS
 
+- [Proffer](https://proffer.codes/for-developers) - Distribute App Store & Google Play promo codes to users via one link; one code per person, tracked. First campaign free.
+
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
 
