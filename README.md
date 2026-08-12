@@ -142,6 +142,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Backl.io](https://backl.io/) - Kickstart and grow your SEO by getting more backlinks.
 
+- [Mentioned](https://mentioned.to/) - Done-for-you Reddit growth: get your product into the Reddit threads that already rank on Google for your keywords.
+
 - [Free sitemap.xml generator](https://www.seo-programming.com/free-sitemap-generator) - Free AI tool to create a sitemap.xml directly from your code
 
 - [Rank on Bing](https://rankonbing.com/) - Automatically rank your pages on Bing within a few hours, get traffic instantly
