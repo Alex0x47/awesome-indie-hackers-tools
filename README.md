@@ -222,6 +222,7 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 - [Snowball](https://snowball.club/?linkId=lp_392285&sourceId=al-gsy&tenantId=snowball) - Grow your X (Twitter) audience in weeks, not years.
 
 - [r/indiehackers](https://www.reddit.com/r/indiehackers/) - subreddit of independent developers building their own way.
+- [n8n JSON Feed to Telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - Free n8n workflow that polls a JSON endpoint and alerts on Telegram only for new entries.
 
 ---
 
