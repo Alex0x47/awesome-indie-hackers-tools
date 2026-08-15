@@ -45,6 +45,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [SharpAPI](https://sharpapi.com/ref/sharpapi_pssh8y3b) - Automate with AI in just two lines of code.
 
+- [IdeaHunter](https://ideahunter.today) - AI startup idea research and validation for solo founders.
+
 - [MakeLanding](https://makelanding.ai/?via=70wlhphph5aec8bxebe9) - MakeLanding uses AI to make a beautiful landing page in seconds!
 
 ## Analytics and Data
