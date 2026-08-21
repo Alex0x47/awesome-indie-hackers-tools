@@ -111,6 +111,13 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Detachless](https://detachless.com/) - Publish directly from Figma to web with Detachless!
 
 - [Unicorn Platform](https://unicornplatform.com/?via=alexandre52) - AI website builder that helps to quickly create websites without design or development skills
+- [Codex Theme Builder](https://codextheme.tools) - Free browser theme builder for OpenAI Codex with live preview.
+- [SkyCOTL Tools](https://skycotl.tools) - Free guides and calculators for Sky: Children of the Light.
+- [WattsCalc](https://wattscalc.com) - Free wattage and electricity cost calculator.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free lawn mowing cost estimates by area and rate.
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing calculator.
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Free tool that converts images into crochet patterns.
+- [Pressure Washer Fix](https://pressurewasherfix.com) - Free pressure washer troubleshooting guides.
 
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
