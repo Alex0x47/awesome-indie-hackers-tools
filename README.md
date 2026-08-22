@@ -164,6 +164,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
 
+- [RefundRadar](https://guerindylan555-boop.github.io/refundradar/) - Generates a Stripe dispute counter_evidence packet (rebuttal letter + evidence checklist) tuned to your chargeback reason code.
+
 ## Boilerplates
 - [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
 
