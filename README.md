@@ -160,6 +160,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Competitor Research](https://www.competitoresearch.com/) - Get the most important information about your competitors
 
 ## Finance and Payment
+- [Scopewise Payment Reminder Generator](https://scopewise.youworkagent.online/freelance-payment-reminder-message-generator-india?source=awesome-indie-dev-tools) - Free, private browser tool for writing specific overdue-invoice reminders for email or WhatsApp.
+
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
 
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
