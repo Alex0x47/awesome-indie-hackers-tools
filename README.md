@@ -164,6 +164,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
 
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Browser invoice and receipt generator; print or save as PDF locally with no account. [Commercial white-label pack (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-indie-hackers-tools-v1) adds your logo, colors, six templates, and unlimited batch CLI.
+
 ## Boilerplates
 - [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
 
