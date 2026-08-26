@@ -164,6 +164,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
 
+- [RealContractorPay](https://realcontractorpay.com) - Reveals your actual take-home pay before signing a 1099 contract with side-by-side W-2 tax math.
+
 ## Boilerplates
 - [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
 
