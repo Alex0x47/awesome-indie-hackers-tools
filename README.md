@@ -147,6 +147,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Rank on Bing](https://rankonbing.com/) - Automatically rank your pages on Bing within a few hours, get traffic instantly
 
 ## Business and Sales
+
+- [Ibis](https://cartonpliant.github.io/ibis/) - Compose a one-page commercial offer in the browser. Free with watermark; Pro 9 € for clean print, Markdown, and 5 layouts.
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
 
 - [SalesPopup](https://SalesPopup.io) - Increase your sales easily by showing recent transactions in a customizable popup users will trust.
