@@ -171,6 +171,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [WrapFast](https://wrapfa.st/?via=alexandre) - SwiftUI boilerplate to create AI wrappers or any iOS app FAST!
   
+- [Hype Stack](https://github.com/BetterTyped/hype-stack) - Free MIT fullstack SaaS monorepo (React 19, Hono, Vite, TanStack, shadcn, Electron, Expo, extension, Postgres) with CLI + MCP
+
 - [Indie Starter](https://indie-starter.dev/?aff=KeBrq) - Minimalistic Well-crafted Nextjs Boilerplate
 
 - [Rapid Launch](https://rapidlaunch.it/?via=h6hczattr8atr4p9yp6m) - Nuxt boilerplate with everything you need to launch your product in minutes
