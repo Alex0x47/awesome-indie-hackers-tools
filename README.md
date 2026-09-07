@@ -73,6 +73,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Pulsetic](https://pulsetic.com/?fpr=alexandre65) - Get website downtime alerts by phone call, SMS, email or Slack
 
 - [Hydrozen.io](https://hydrozen.io/) - Hydrozen helps you monitor the availability of your websites
+- [Vacato](https://vacato.io) - Free RDAP domain availability watchlist (10 names). Email/Telegram when a taken name opens — alerts only, not a drop-catcher.
 
 ### Mobile development
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
