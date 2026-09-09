@@ -106,6 +106,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [SpeedMeter](https://www.speedmeter.app/) - Analyze your website performance and make it faster today
 
 ## Productivity
+- [ResumeAI](https://withresumeai.com/) - AI resume builder + free ATS checker for job seekers
 - [Daito Authenticator](https://www.daito.io?fpr=ey6wu) - Daito's web-based 2FA authenticator lets you securely share 2FA across teams. Access anywhere without phones.
 
 - [Detachless](https://detachless.com/) - Publish directly from Figma to web with Detachless!
