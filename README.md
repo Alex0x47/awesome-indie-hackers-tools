@@ -159,6 +159,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Competitor Research](https://www.competitoresearch.com/) - Get the most important information about your competitors
 
+- [BusinessOS](https://businessos.biz) - Offline-first, encrypted business platform (invoicing, expenses, cash flow) with voice-to-invoice and WhatsApp send built in. Ships 40 free open-source calculators (VAT, GST, MRR, CAC, LTV) with [no signup](https://github.com/ytinsta1741-ops/free-business-tools).
+
 ## Finance and Payment
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
 
