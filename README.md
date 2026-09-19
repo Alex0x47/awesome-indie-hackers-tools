@@ -111,6 +111,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Detachless](https://detachless.com/) - Publish directly from Figma to web with Detachless!
 
 - [Unicorn Platform](https://unicornplatform.com/?via=alexandre52) - AI website builder that helps to quickly create websites without design or development skills
+- [NextReset](https://nextreset.ai/) - Review observed Codex reset history and official incident sources, with a browser-local personal timer.
+
 
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
