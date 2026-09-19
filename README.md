@@ -160,6 +160,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Competitor Research](https://www.competitoresearch.com/) - Get the most important information about your competitors
 
 ## Finance and Payment
+- [Client Close Kit](https://github.com/darweesh128-cmd/client-close-kit) - Bilingual WhatsApp close captions plus printable invoice/quote templates for freelancers collecting payment.
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
 
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
