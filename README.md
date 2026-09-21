@@ -208,6 +208,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 - [Tiny Startups](https://www.tinystartups.com/) - Discover the hottest 🔥 Tiny Startups.
 
+- [AI Indie Maker](https://indiemaker.cn/) - A searchable directory of 2,900+ products (AI tools, apps, games) built by Chinese indie developers, synced daily from an open-source repository. No paid rankings.
+
 ## Hosting and Cloud
 
 - [Static](https://static.app/) - One-click hosting solution for your static website
