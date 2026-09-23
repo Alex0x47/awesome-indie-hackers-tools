@@ -54,6 +54,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 ## Development
 ### Web development
+- [README → Landing](https://boltdoesthis.github.io/readme-to-landing/) - Free client-side tool: paste a README or blurb, download a clean landing page HTML. No accounts. Indie Agent Kit / boltdoesthis.
+
 - [StablePush](https://stablepush.dev/) - The CI/CD tool that ensures your site complies with SEO and accessibility standards
 
 - [Clobbr](https://clobbr.app/) - The app & CLI tool to load test your API endpoints.
