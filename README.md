@@ -112,6 +112,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Unicorn Platform](https://unicornplatform.com/?via=alexandre52) - AI website builder that helps to quickly create websites without design or development skills
 
+- [Toolerax](https://toolerax.com/) - 170 free online tools (PDF, image, text, converters, calculators, developer utilities) — most run entirely in your browser, no signup required.
+
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
 
