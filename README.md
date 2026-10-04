@@ -74,6 +74,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Hydrozen.io](https://hydrozen.io/) - Hydrozen helps you monitor the availability of your websites
 
+- [Fokusflow](https://fokusflow.io) - Dashboard that keeps each app's services, provider health, uptime and revenue in one place. Freemium.
+
 ### Mobile development
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
