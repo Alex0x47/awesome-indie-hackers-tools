@@ -75,6 +75,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Hydrozen.io](https://hydrozen.io/) - Hydrozen helps you monitor the availability of your websites
 
 ### Mobile development
+- [RateMyApp](https://ratemyapp.io/) - Community testing and private feedback for iOS and Android apps; free app listings with earned or purchased testing credits.
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
 ## Design 
