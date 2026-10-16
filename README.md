@@ -160,6 +160,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Competitor Research](https://www.competitoresearch.com/) - Get the most important information about your competitors
 
 ## Finance and Payment
+- [WhoOwnsWhat.xyz](https://whoownswhat.xyz/?utm_source=github&utm_medium=referral&utm_campaign=awesome_lists&utm_content=awesome_indie_hackers_tools) - Shared project ledger for co-founders to split tool costs and track asset ownership; free plan and MCP access live.
+
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
 
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
