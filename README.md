@@ -117,6 +117,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Picasso](https://www.picassoapp.ca/) - Generate screenshots for the Apple App Store and upload them directly to App Store Connect.
 
+- [App Store Localizer](https://asolocalization.com) - Translate App Store screenshots and listing metadata (title, subtitle, description, keywords) for 20+ locales from one store URL.
+
 - [GenPage](https://www.genpage.ai/) - Generate Custom Landing Pages, for every lead.
 
 - [cocomail](https://www.cocomail.io/) - An email marketing automation platform designed specifically for saas platforms.
