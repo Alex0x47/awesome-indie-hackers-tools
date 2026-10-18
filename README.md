@@ -21,6 +21,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Development](#development)
   - [Web Development](#web-development)
   - [Mobile Development](#mobile-development)
+- [Domain Monitoring](#domain-monitoring)
 - [Design](#design)
 - [Optimization](#optimization)
 - [Productivity](#productivity)
@@ -77,6 +78,8 @@ You can submit any tool that you think can be useful for the community, wether i
 ### Mobile development
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
+## Domain Monitoring
+- [Vacato](https://vacato.io) - RDAP domain availability watchlist with Telegram/email/Slack alerts; free 10 domains (not a drop-catcher).
 ## Design 
 - [Design Buddy](https://designbuddy.net/) - Ensure your designs are polished and stakeholder-ready every time.
 
