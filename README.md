@@ -47,6 +47,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [MakeLanding](https://makelanding.ai/?via=70wlhphph5aec8bxebe9) - MakeLanding uses AI to make a beautiful landing page in seconds!
 
+- [Agent Cookbook](https://agentcookbook.dev) - Free directory of 75 real AI agent setups, including 20 that people made money with, each with the source, prompt, and steps to copy.
+
 ## Analytics and Data
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
 
