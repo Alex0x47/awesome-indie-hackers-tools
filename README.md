@@ -57,6 +57,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [StablePush](https://stablepush.dev/) - The CI/CD tool that ensures your site complies with SEO and accessibility standards
 
 - [Clobbr](https://clobbr.app/) - The app & CLI tool to load test your API endpoints.
+- [ScreenshotRun](https://screenshotrun.com) - Screenshot API for developers. Capture webpages as PNG, JPEG, WebP, or PDF via REST API.
 
 - [Scale to Zero AWS](https://scaletozeroaws.com/?aff=KeBrq) - Deploy your app in minutes with serverless architecture.
 
@@ -97,6 +98,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Iconbuddy](https://iconbuddy.com/) - The ultimate source for icons: over 200k+ open source icons.
 
 - [Coolors](https://coolors.co/?ref=664f2bc224253d000be6c2af) - Create the perfect color palette with Coolors.
+
+- [WatchCron](https://watchcron.com) - Cron job monitoring. Get alerted when your scheduled tasks fail or stop running.
 
 ## Optimization
 - [Tiny Img](https://tinyimg.cc/) - Reduce image file size by up to 80% without compromising quality.
