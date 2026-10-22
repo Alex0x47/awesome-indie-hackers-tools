@@ -192,6 +192,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 - [NextJSDirectory](https://www.nextjsdirectory.com/?aff=KeBrq) - NextJSDirectory is a boilerplate with all you need to quickly build a directory
 
+- [FastAPI Supabase Starter](https://starter.budeglobal.in/) - Python SaaS boilerplate on FastAPI and Supabase with auth, teams, roles, Stripe and Razorpay payments and an AI assistant.
+
 ## Launch
 - [Product Hunt](https://www.producthunt.com/) - Platform that lets users share and discover new products.
 
