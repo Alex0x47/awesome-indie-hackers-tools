@@ -166,6 +166,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
 
+- [SmartBizCalc](https://smartbizcalc.com/) - 700+ free calculators for self-employed founders and small business owners: self-employment tax, payroll, LLC vs S-Corp, break-even, contractor pricing, and more. No sign-up required.
+
 ## Boilerplates
 - [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
 
