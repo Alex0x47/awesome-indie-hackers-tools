@@ -133,6 +133,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Outblog](https://outblog.me/) - Build the perfect blog for your SaaS
 
+- [KiloPlume](https://kiloplume.com/) - Never run out of things to write about: weekly topic suggestions and content briefs tailored to your business
+
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
 
