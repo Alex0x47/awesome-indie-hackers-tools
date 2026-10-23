@@ -162,7 +162,11 @@ You can submit any tool that you think can be useful for the community, wether i
 ## Finance and Payment
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
 
+- [SmartBizCalc](https://smartbizcalc.com) - 280+ free business calculators for indie builders: pricing, tax, payroll, break-even, contractor costs, and more.
+
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
+
+- [SmartBizCalc](https://smartbizcalc.com/) - 700+ free calculators for self-employed founders and small business owners: self-employment tax, payroll, LLC vs S-Corp, break-even, contractor pricing, and more. No sign-up required.
 
 ## Boilerplates
 - [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
