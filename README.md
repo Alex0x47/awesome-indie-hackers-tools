@@ -78,6 +78,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
 ## Design 
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla wrap designer; core editing + PNG export free without account (optional AI credits).
 - [Design Buddy](https://designbuddy.net/) - Ensure your designs are polished and stakeholder-ready every time.
 
 - [Creatica](https://creatica.app/) - Generate SVG Backgrounds to elevate your designs.
