@@ -51,6 +51,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
 
 - [Pirsch Analytics](https://pirsch.io/) - Privacy-friendly web analytics made and hosted in Germany.
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## Development
 ### Web development
