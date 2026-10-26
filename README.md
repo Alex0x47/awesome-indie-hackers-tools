@@ -1,5 +1,6 @@
 # Awesome Indie Dev Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 **[Subscribe](https://github.com/Alex0x47/awesome-indie-hackers-tools/subscription) to receive notifications with updates.**
 
 ### **🎉 NEW:** Find all the product listed here and more on a dedicated directory: [Indie Dev Tools](http://indiedev.tools/) 🎉
