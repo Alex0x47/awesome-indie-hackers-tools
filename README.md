@@ -159,6 +159,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Competitor Research](https://www.competitoresearch.com/) - Get the most important information about your competitors
 
+- [MRR Bench](https://mrrbench.com/) - Pricing and published revenue for 700+ GTM tools, with dated price changes
+
 ## Finance and Payment
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
 
