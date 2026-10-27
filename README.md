@@ -206,6 +206,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 - [Quicklisting](https://quicklist.ing/?gr_pk=jdLY) - Submit your software startup to +200 directories and reach +23M monthly users.
 
+- [RespawnStack](https://respawnstack.com) - Curated AI tools directory for game developers.
+
 - [Tiny Startups](https://www.tinystartups.com/) - Discover the hottest 🔥 Tiny Startups.
 
 ## Hosting and Cloud
