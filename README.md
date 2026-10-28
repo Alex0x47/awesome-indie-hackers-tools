@@ -41,6 +41,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Astronuts](https://www.astronuts.io/) - AI for automated code reviews and error resolutions.
 
+- [Cadence Music](https://music.rynn.me/) - Free browser AI song generator (text/lyrics → full song with vocals). 4 free generations/day.
+
 - [Adsby](https://adsby.co/) - Your AI Co-Pilot for Google Ads.
 
 - [SharpAPI](https://sharpapi.com/ref/sharpapi_pssh8y3b) - Automate with AI in just two lines of code.
