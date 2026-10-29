@@ -121,6 +121,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [cocomail](https://www.cocomail.io/) - An email marketing automation platform designed specifically for saas platforms.
 
+- [EasySociable](https://easysociable.com/?utm_source=awesome-indie-hackers-tools&utm_medium=directory&utm_campaign=backlinks) - AI carousel maker that runs inside your coding agent (Claude Code, Cursor, Codex).
+
 - [Modalcast](https://www.modalcast.com/) - Connect directly with your users with Modalcast
 
 - [BacklinkGPT](https://www.backlinkgpt.com/?aff=KeBrq) - Automate Your Link-Building with AI-Personalized Outreach
