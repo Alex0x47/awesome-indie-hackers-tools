@@ -46,6 +46,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [SharpAPI](https://sharpapi.com/ref/sharpapi_pssh8y3b) - Automate with AI in just two lines of code.
 
 - [MakeLanding](https://makelanding.ai/?via=70wlhphph5aec8bxebe9) - MakeLanding uses AI to make a beautiful landing page in seconds!
+- [MeetNewAI](https://meetnewai.com/) - Free bilingual directory of new AI tools, AI games, and MCP servers organized by the job to be done.
 
 ## Analytics and Data
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
