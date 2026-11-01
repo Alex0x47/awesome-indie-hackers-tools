@@ -158,6 +158,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [SureMeet](https://suremeet.io/) - Calendly integration that prevents no-shows
 
 - [Competitor Research](https://www.competitoresearch.com/) - Get the most important information about your competitors
+- [EarlyLore](https://earlylore.com/) - Free-tier research workspace for founders to study SaaS products, revenue signals, and competitor changes.
 
 ## Finance and Payment
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
