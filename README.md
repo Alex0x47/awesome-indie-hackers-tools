@@ -114,6 +114,7 @@ You can submit any tool that you think can be useful for the community, wether i
 
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
+- [twtData follower export](https://twtdata.com/download-twitter-followers/) - Export the followers of a public X (Twitter) account to CSV to study a competitor audience.
 
 - [Picasso](https://www.picassoapp.ca/) - Generate screenshots for the Apple App Store and upload them directly to App Store Connect.
 
