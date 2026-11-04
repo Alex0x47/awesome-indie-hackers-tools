@@ -216,6 +216,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 - [GDPRValidator](https://gdprvalidator.eu/) - Test your website compliance with GDPR in seconds, for free.
 
+- [Attestlane](https://attestlane.to) - SOC 2 readiness for small B2B software teams: free assessment, AI-drafted policies for the team to review, a 39-item evidence checklist and an auditor-ready package.
+
 ## Customer Service
 
 ## Networking and Community Building
