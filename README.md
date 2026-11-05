@@ -133,6 +133,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Outblog](https://outblog.me/) - Build the perfect blog for your SaaS
 
+- [OpenSparta](https://opensparta.com/en) - Telegram marketing workspace for teams and agencies to manage accounts and proxies, discover relevant community conversations, and run campaign workflows. Pricing lists Lead Radar for monitoring selected communities for buying requests.
+
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
 
