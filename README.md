@@ -78,6 +78,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [SwiftyLaunch](https://swiftylaun.ch/?ref=algsy) - Launch your million-dollar iOS App in days, not weeks.
 
 ## Design 
+- [ASCII Images](https://ascii-images.com/) - Free browser tools for image-to-ASCII conversion, FIGlet banners, patterns and plain-text diagrams. No account required.
+
 - [Design Buddy](https://designbuddy.net/) - Ensure your designs are polished and stakeholder-ready every time.
 
 - [Creatica](https://creatica.app/) - Generate SVG Backgrounds to elevate your designs.
