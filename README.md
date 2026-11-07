@@ -147,6 +147,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Rank on Bing](https://rankonbing.com/) - Automatically rank your pages on Bing within a few hours, get traffic instantly
 
 ## Business and Sales
+- [RandomGeneratr Business Names](https://randomgeneratr.com/business-names) - Generate business-name ideas by industry for startup naming drafts.
+
 - [Lite Feedback](https://litefeedback.com/) - Add a powerful popup feedback to your website with a single line  of code and get notifications  right away.
 
 - [SalesPopup](https://SalesPopup.io) - Increase your sales easily by showing recent transactions in a customizable popup users will trust.
