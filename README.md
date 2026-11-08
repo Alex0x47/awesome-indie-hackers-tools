@@ -208,6 +208,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 - [Tiny Startups](https://www.tinystartups.com/) - Discover the hottest 🔥 Tiny Startups.
 
+- [FindUpApp](https://findupapp.com) - Mobile app directory with fair discovery. Paste a store URL to list an app (no account needed).
+
 ## Hosting and Cloud
 
 - [Static](https://static.app/) - One-click hosting solution for your static website
