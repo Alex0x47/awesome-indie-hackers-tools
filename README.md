@@ -98,6 +98,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Coolors](https://coolors.co/?ref=664f2bc224253d000be6c2af) - Create the perfect color palette with Coolors.
 
+- [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) - Free browser tool for comparing script, heading and body font combinations.
+
 ## Optimization
 - [Tiny Img](https://tinyimg.cc/) - Reduce image file size by up to 80% without compromising quality.
 
