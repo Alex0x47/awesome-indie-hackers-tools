@@ -112,6 +112,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Unicorn Platform](https://unicornplatform.com/?via=alexandre52) - AI website builder that helps to quickly create websites without design or development skills
 
+- [Dogeshorts PDF Tools](https://dogeshorts.com/pdftools) - Free PDF tools that run entirely in your browser: merge, split, compress, convert, rotate, watermark, protect and unlock PDFs with no account and no uploads.
+
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
 
