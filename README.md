@@ -37,6 +37,7 @@ You can submit any tool that you think can be useful for the community, wether i
 - [Networking and Community Building](#networking-and-community-building)
 
 ## AI
+- [AdVariq](https://advariq.com/) - AI ad creative and product marketing visual generator for DTC brands and digital marketers.
 - [Junia](https://www.junia.ai/?via=alexandre) - Generate High Ranking AI Content In Minutes.
 
 - [Astronuts](https://www.astronuts.io/) - AI for automated code reviews and error resolutions.
