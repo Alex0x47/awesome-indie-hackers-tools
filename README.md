@@ -133,6 +133,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Outblog](https://outblog.me/) - Build the perfect blog for your SaaS
 
+- [FacelessShorts](https://facelessshorts.io/) - Turn a niche into a daily faceless video series: scripted, narrated, and captioned Shorts, TikToks, and Reels on a schedule.
+
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
 
