@@ -201,6 +201,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 - [Indie Dev Tools](https://indiedev.tools/) - The Best Launch Platform of Tools Made For and By Developers
 
+- [Awesome Indie](https://awesomeindie.com/) - Daily launch platform for indie makers, ranked by community upvotes.
+
 ## Directories
 - [AI Directories](https://aidirectori.es/?via=sdlvukfr1vvk00etygw3) - Directory of AI directories (+100 listed).
 
