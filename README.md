@@ -208,6 +208,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 - [Tiny Startups](https://www.tinystartups.com/) - Discover the hottest 🔥 Tiny Startups.
 
+- [No Stairs Please](https://nostairsplease.com/) - Every small stage in all 50 states, and who books it (live-music venue directory & remote MCP at https://nostairsplease.com/mcp).
+
 ## Hosting and Cloud
 
 - [Static](https://static.app/) - One-click hosting solution for your static website
