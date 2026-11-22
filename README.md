@@ -56,6 +56,8 @@ You can submit any tool that you think can be useful for the community, wether i
 ### Web development
 - [StablePush](https://stablepush.dev/) - The CI/CD tool that ensures your site complies with SEO and accessibility standards
 
+- [LS Exit Audit](https://twappleon.github.io/ls-exit-audit/?utm_source=awesome_indie_hackers_tools&utm_medium=github_pr&utm_campaign=ls_exit_audit_v030) - Local-first CLI for inventorying Lemon Squeezy migration dependencies in repositories and owner-authorized URLs (paid, US$29).
+
 - [Clobbr](https://clobbr.app/) - The app & CLI tool to load test your API endpoints.
 
 - [Scale to Zero AWS](https://scaletozeroaws.com/?aff=KeBrq) - Deploy your app in minutes with serverless architecture.
