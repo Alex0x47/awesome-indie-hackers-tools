@@ -132,6 +132,8 @@ You can submit any tool that you think can be useful for the community, wether i
 - [FAQ popup](https://www.faqpopup.com/) - Maximize Conversion Rates with Proactive FAQs
 
 - [Outblog](https://outblog.me/) - Build the perfect blog for your SaaS
+- [Distribewt](https://distribewt.com/) - AI slideshows for TikTok and Instagram made from real iOS app screenshots.
+
 
 ## SEO
 - [SEO Programming](https://seo-programming.com/) - Improve your SEO with code thanks to programmatic SEO.
