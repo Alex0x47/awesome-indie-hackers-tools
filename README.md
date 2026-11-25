@@ -164,6 +164,10 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [ByeDispute](https://byedispute.com?via=3ph7mfsonhqwk6iar9lj) - Monitors Stripe activity to prevent fraudulent transactions.
 
+- [SaaS Stack Cost Calculator](https://arcaproject.tech/saas-stack-cost-calculator) - Free calculator: add your tools and see what your software stack costs per month and per year. No signup.
+
+- [Recurring Charge Finder](https://arcaproject.tech/try) - Paste or upload a card statement (CSV) and get every recurring charge listed. Free, no signup, no bank login.
+
 ## Boilerplates
 - [Boilermates](https://boilermat.es/) - Directory of boilerplates, includes discount codes.
 
