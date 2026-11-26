@@ -112,6 +112,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Unicorn Platform](https://unicornplatform.com/?via=alexandre52) - AI website builder that helps to quickly create websites without design or development skills
 
+- [Brisqnex](https://www.brisqnex.com) - 83 free online tools — PDF, image, text, developer & SEO tools, converters and calculators. No signup; most tools run entirely in your browser, so files are never uploaded.
+
 ## Marketing
 - [Indie Page](https://indiepa.ge/) - A page to showcase your products.
 
