@@ -54,6 +54,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 ## Development
 ### Web development
+- [BestJSON](https://bestjson.com/) - Format, validate and compare JSON locally in the browser, without an account.
+
 - [StablePush](https://stablepush.dev/) - The CI/CD tool that ensures your site complies with SEO and accessibility standards
 
 - [Clobbr](https://clobbr.app/) - The app & CLI tool to load test your API endpoints.
