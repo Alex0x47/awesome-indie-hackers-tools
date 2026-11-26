@@ -47,6 +47,7 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [MakeLanding](https://makelanding.ai/?via=70wlhphph5aec8bxebe9) - MakeLanding uses AI to make a beautiful landing page in seconds!
 
+- [SoloLens by AIOTFY](https://solo.aiotfy.com) - Free scored idea check for solo founders, with a public same-idea test of free validators.
 ## Analytics and Data
 - [Plausible](https://plausible.io/) - Privacy friendly alternative to Google Analytics.
 
