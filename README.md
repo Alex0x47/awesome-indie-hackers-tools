@@ -216,6 +216,8 @@ Skip weeks of development with 7 prebuilt AI-ready Nextjs & Supabase apps
 
 - [GDPRValidator](https://gdprvalidator.eu/) - Test your website compliance with GDPR in seconds, for free.
 
+- [BrandShield](https://brand.shipbastion.com/) - Check startup name availability across 78 TLDs, RDAP records, and USPTO trademark collisions, for free.
+
 ## Customer Service
 
 ## Networking and Community Building
