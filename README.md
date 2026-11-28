@@ -159,6 +159,8 @@ You can submit any tool that you think can be useful for the community, wether i
 
 - [Competitor Research](https://www.competitoresearch.com/) - Get the most important information about your competitors
 
+- [ScopeForge](https://scopeforge.app/) - Zero-subscription Scope of Work, quote, invoice, tax ledger & client portal studio for freelancers & agencies.
+
 ## Finance and Payment
 - [Zenvoice](https://zenvoice.io/) - Allows customers to generate, edit and download their Stripe invoices.
 
